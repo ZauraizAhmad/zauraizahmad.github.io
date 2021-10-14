@@ -168,7 +168,6 @@ li a {
 }
 
 #aboutpage {
-  border: 2px solid red;
   width: 60%;
   height: 110%;
   margin-left: 27%;
@@ -209,7 +208,6 @@ span {
 }
 
 #abtskillcontainer {
-  border: 2px solid red;
   height: 15%;
   width: 95%;
   margin-left: 4.5%;
